@@ -7,8 +7,10 @@ import base64
 import io
 
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
+import dash.dcc as dcc
+import dash.html as html
+# import dash_core_components as dcc
+# import dash_html_components as html
 
 from dash.dependencies import Input, Output, State
 from dash.exceptions import PreventUpdate
