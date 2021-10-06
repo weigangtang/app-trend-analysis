@@ -15,6 +15,7 @@ et-xmlfile==1.1.0
 Flask==2.0.1
 Flask-Compress==1.9.0
 future==0.18.2
+gunicorn==20.1.0
 ipykernel @ file:///opt/concourse/worker/volumes/live/f8f0ca7d-4772-42a8-6355-ed26f8c5e652/volume/ipykernel_1629995108558/work/dist/ipykernel-6.2.0-py3-none-any.whl
 ipython @ file:///opt/concourse/worker/volumes/live/98dc6da1-fa0b-451a-55f8-0248750600e4/volume/ipython_1632141403468/work
 itsdangerous==2.0.1
