@@ -1,5 +1,5 @@
 import dash
-from demo import create_layout, demo_callbacks
+from demo2 import create_layout, demo_callbacks
 
 app = dash.Dash(
     __name__,
